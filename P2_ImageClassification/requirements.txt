@@ -1,0 +1,9 @@
+numpy
+pandas
+Flask
+Flask-Cors
+tensorflow
+Pillow
+scipy>=1.10.0
+
+-e .
